@@ -333,3 +333,54 @@ text-wrap: nowrap;
     padding-left:6%;
 }
 }
+
+
+@media screen and (min-width: 1024px) {
+
+.titulo-principal {
+    color: #f8fde8;
+    line-height: 1;
+    text-wrap: nowrap;
+    padding-left: 1%;
+    padding-top: 0%;
+}
+
+.titulo-sec {
+    color: aliceblue;
+    padding-left: -70%;
+    padding-top: 0%;
+}
+
+.ayuda {
+    margin-left:-45%;
+    margin-top: -8%;
+    line-height: 1;
+}
+
+.inf-img {
+    max-width: 40%;
+    padding-top: 65%;
+    padding-left:0%;
+    margin-left: -150%;
+    padding-bottom: 0%;
+    position: relative;        
+}
+    
+.texto-influencer {
+    text-align:left;
+    position: relative;
+    text-wrap: nowrap;
+    margin-top: -10%;
+    margin-left: -80%;
+}
+    
+.custom-list dt {
+    line-height: 3;
+    background-size: 20px;
+    padding-left: 3%;
+    margin-left: 2%;
+    margin-top: -3%;
+    font-size: 1.3em;
+    padding-top: 1%;
+}
+}

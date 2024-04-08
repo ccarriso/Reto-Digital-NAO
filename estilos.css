@@ -360,7 +360,7 @@ text-wrap: nowrap;
 
 .inf-img {
     max-width: 40%;
-    padding-top: 65%;
+    padding-top: 25%;
     padding-left:0%;
     margin-left: -150%;
     padding-bottom: 0%;
@@ -383,5 +383,6 @@ text-wrap: nowrap;
     margin-top: -4%;
     font-size: 1.3em;
     padding-top: 1%;
+    line-height: 5;
 }
 }
